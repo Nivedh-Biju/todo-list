@@ -19,3 +19,8 @@
 5. **Simple and Clear UI for Cognitive Disabilities**  
    - **Who it helps**: Users with cognitive disabilities like dyslexia, ADHD, or learning difficulties.  
    - **Feature**: The app provides a clear, simple interface with well-defined sections, minimizing distractions and making it easier to focus on tasks.
+
+
+
+https://github.com/user-attachments/assets/2485e201-4b55-4e69-9d7f-dbc4147faff3
+
